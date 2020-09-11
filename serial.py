@@ -39,6 +39,5 @@ class SerialGenerator:
 
 
 
-
 serial = SerialGenerator(start=100)
 print(serial)
